@@ -25,7 +25,6 @@ qtidisplay_cc_defaults {
         "-Wall",
         "-Werror",
     ],
-    lto_Instr100: true,
     shared_libs: [
         "liblog",
         "libcutils",
